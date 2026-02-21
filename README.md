@@ -97,7 +97,7 @@ The Pearson correlation coefficient of -0.36/-0.38  indicates a modest inverse a
 
 All the graphs can be seen here:
 
-
+https://mardedexo.github.io/global-health-inequalities/html_graphs/GDP_per_capita_current_USD.html 
 
 The full report can be seen here:
 
