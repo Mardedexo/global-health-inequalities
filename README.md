@@ -93,15 +93,20 @@ Coefficient year 2023 only:
 
 The Pearson correlation coefficient of -0.36/-0.38  indicates a modest inverse association between GDP per capita and income inequality. While higher-income countries tend to exhibit lower inequality, the relationship is not strong, suggesting that income distribution is influenced by additional factors.
 
+# **Conclusion**
 
+# **Summary**
 
-**All the graphs can be seen here:**
+## **All the graphs can be seen here:**
 
-Economic Indicators
+### World maps
+
+#### Economic Indicators
 -	GDP per capita (current US$):
 https://mardedexo.github.io/global-health-inequalities/html_graphs/GDP_per_capita_current_USD.html
 
--	GNI per capita (Atlas method).
+-	GNI per capita (Atlas method):
+  
 -	GDP growth (annual %).
 -	Gini index.
 -	Central_government_debt,_total_(%_of_GDP)
