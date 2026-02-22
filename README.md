@@ -193,9 +193,15 @@ https://mardedexo.github.io/global-health-inequalities/bar_charts/GDP_per_capita
   
 https://mardedexo.github.io/global-health-inequalities/bar_charts/GNI_per_capita_Atlas_method_TopBottom10_Animated.html
 
--	GDP growth (annual %):
+-	GDP growth (annual %) - top 10:
   
-https://mardedexo.github.io/global-health-inequalities/bar_charts/GDP_growth_annual_percent_TopBottom10_Animated.html
+https://mardedexo.github.io/global-health-inequalities/bar_charts/GDP_growth_Top10.html
+
+-	GDP growth (annual %) – bottom 10:
+
+https://mardedexo.github.io/global-health-inequalities/bar_charts/GDP_growth_Bottom10.html
+bar_charts/GDP_growth_Bottom10.html
+
 
 -	Gini index:
   
