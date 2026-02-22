@@ -103,14 +103,75 @@ The Pearson correlation coefficient of -0.36/-0.38  indicates a modest inverse a
 
 #### Economic Indicators
 -	GDP per capita (current US$):
-https://mardedexo.github.io/global-health-inequalities/html_graphs/GDP_per_capita_current_USD.html
+https://mardedexo.github.io/global-health-inequalities/world_map/GDP_per_capita_current_USD_worldMap.html  
 
--	GNI per capita (Atlas method):
+-	GNI per capita (Atlas method:
+https://mardedexo.github.io/global-health-inequalities//world_map/Current_health_expenditure_(%_of_GDP)_worldMap.html
   
--	GDP growth (annual %).
--	Gini index.
--	Central_government_debt,_total_(%_of_GDP)
--	Current_health_expenditure_(%_of_GDP)
+-	GDP growth (annual %):
+https://mardedexo.github.io/global-health-inequalities/world_map/GDP_growth_map_worldMap.html
+
+-	Gini index:
+
+-	Central_government_debt,_total_(%_of_GDP):
+https://mardedexo.github.io/global-health-inequalities/world_map/Central_government_debt,_total_(%_of_GDP)_worldMap.html
+
+-	Current_health_expenditure_(%_of_GDP):
+https://mardedexo.github.io/global-health-inequalities/world_map/Current_health_expenditure_(%_of_GDP)_worldMap.html 
+
+
+#### Health Indicators:
+
+-	Life expectancy at birth, total (years):
+https://mardedexo.github.io/global-health-inequalities/world_map/Life_expectancy_at_birth_2000_2023_worldMap.html
+
+-	Mortality rate, infant (per 1,000 live births):
+  
+https://mardedexo.github.io/global-health-inequalities/world_map/Infant_mortality_rate_2000_2023_worldMap.html
+
+-	UHC Service Coverage Index:
+https://mardedexo.github.io/global-health-inequalities/world_map/UHC_Service_Coverage_Index_worldMap.html
+
+-	Maternal mortality ratio (modeled estimate, per 100,000 live births):
+  
+https://mardedexo.github.io/global-health-inequalities/world_map/Maternal_mortality_ratio_(modeled_estimate,_per_100,000_live_births_worldMap.html
+
+-	Hospital beds (per 1000 people):
+  
+https://mardedexo.github.io/global-health-inequalities/world_map/Hospital_beds_%28per_1%2C000%20people%29_worldMap.html
+
+
+#### Human Development & Well-being Indicators:
+
+-	Human capital index (HCI) (scale 0-1):
+
+https://mardedexo.github.io/global-health-inequalities/world_map/Human_capital_index_(HCI)_worldMap.html
+
+-	Unemployment, total (% of total labor force) (national estimate):
+  
+https://mardedexo.github.io/global-health-inequalities/world_map/Unemployment,_total_(%_of_total_labor_force)_(national_estimate)_worldMap.html
+
+-	Access to electricity (% of population):
+  
+https://mardedexo.github.io/global-health-inequalities/world_map/access_to_electricity_worldMap.html
+
+-	Internet users (% of population):
+https://mardedexo.github.io/global-health-inequalities/world_map/Internet_users_(%_of_population)_worldMap.html
+
+-	People using at least basic sanitation services (% of population):
+  
+https://mardedexo.github.io/global-health-inequalities/world_map/People%20using%20at%20least%20basic%20sanitation%20services%20(%25%20of%20population)_worldMap.html 
+
+-	People using at least basic drinking water services (% of population):
+  
+https://mardedexo.github.io/global-health-inequalities/world_map/People%20using%20at%20least%20basic%20drinking%20water%20services,%20urban%20(%25%20of%20urban%20population)_worldMap.html
+
+- Population total:
+  
+https://mardedexo.github.io/global-health-inequalities/world_map/Population_total_worldMap.html
+
+
+
 
 
 The full report can be seen here:
