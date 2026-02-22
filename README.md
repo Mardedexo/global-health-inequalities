@@ -107,7 +107,7 @@ The Pearson correlation coefficient of -0.36/-0.38  indicates a modest inverse a
   
 https://mardedexo.github.io/global-health-inequalities/world_map/GDP_per_capita_current_USD_worldMap.html  
 
--	GNI per capita (Atlas method:
+-	GNI per capita (Atlas method):
   
 https://mardedexo.github.io/global-health-inequalities//world_map/Current_health_expenditure_(%_of_GDP)_worldMap.html
   
@@ -116,6 +116,8 @@ https://mardedexo.github.io/global-health-inequalities//world_map/Current_health
 https://mardedexo.github.io/global-health-inequalities/world_map/GDP_growth_map_worldMap.html
 
 -	Gini index:
+
+https://mardedexo.github.io/global-health-inequalities/world_map/Gini_index_map_worldMap.html
 
 -	Central_government_debt,_total_(%_of_GDP):
   
