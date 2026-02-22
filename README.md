@@ -1,6 +1,6 @@
 ## Exploratory analysis of global health inequalities
 ### **Aim**
-To explore and analyse the relationship between socioeconomic level and global health worldwide for the years 2000 - 2024.
+To explore and analyse the relationship between socioeconomic level and global health worldwide from 2000 to 2024.
 
 ### **Methods**
 
