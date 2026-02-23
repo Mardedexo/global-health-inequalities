@@ -383,4 +383,4 @@ https://mardedexo.github.io/global-health-inequalities/comparative_analysis/GDP_
 
 The full report can be seen here: https://mardedexo.github.io/global-health-inequalities/Full_Report.pdf 
 
-The code for each plot can be found here: 
+The code for each plot can be found here: [Exploratory Analysis of Global Health Inequalities] (https://nbviewer.org/url/mardedexo.github.io/global-health-inequalities/Exploratory%20analysis%20of%20global%20health%20inequalities.ipynb) 
