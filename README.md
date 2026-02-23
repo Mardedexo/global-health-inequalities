@@ -283,7 +283,7 @@ https://mardedexo.github.io/global-health-inequalities/line_graphs/GDP_per_capit
 https://mardedexo.github.io/global-health-inequalities/line_graphs/GNI_per_capita,_Atlas_method_(current_US$).html
 
 -	GDP growth (annual %):
--	
+  
 https://mardedexo.github.io/global-health-inequalities/line_graphs/GDP_growth_(annual_%).html
 
 -	Gini index:
