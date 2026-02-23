@@ -200,8 +200,6 @@ https://mardedexo.github.io/global-health-inequalities/bar_charts/GDP_growth_Top
 -	GDP growth (annual %) – bottom 10:
 
 https://mardedexo.github.io/global-health-inequalities/bar_charts/GDP_growth_Bottom10.html
-bar_charts/GDP_growth_Bottom10.html
-
 
 -	Gini index:
   
