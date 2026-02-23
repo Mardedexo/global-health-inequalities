@@ -381,8 +381,6 @@ https://mardedexo.github.io/global-health-inequalities/comparative_analysis/Gini
 https://mardedexo.github.io/global-health-inequalities/comparative_analysis/GDP_vs_Gini_vs_GDP_growth_Animated_2000_2024.html
 
 
-
-
-The full report can be seen here:
+The full report can be seen here: https://mardedexo.github.io/global-health-inequalities/Full_Report.pdf 
 
 The code for each plot can be found here: 
